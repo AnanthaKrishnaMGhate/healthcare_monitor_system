@@ -56,3 +56,10 @@ The system is implemented using **Python**, following a modular and structured a
 ---
 
 ## Project Structure
+healthcare_monitor_system/
+├── healthcare_monitor_system.py   # Main program file
+├── requirements.txt               # Python dependencies (if any)
+├── data/                           # Sample or simulated health data
+├── logs/                           # System logs and alert records
+├── output/                         # Generated reports or alerts
+└── README.md                       # Project documentation
